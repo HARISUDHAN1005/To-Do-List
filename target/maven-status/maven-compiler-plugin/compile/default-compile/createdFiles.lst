@@ -1,0 +1,16 @@
+com\igor101\thebesttodoapp\application\ApiErrors.class
+com\igor101\thebesttodoapp\application\JsonMapper.class
+com\igor101\thebesttodoapp\core\TodoRepository.class
+com\igor101\thebesttodoapp\core\TodoService.class
+com\igor101\thebesttodoapp\TheBestTodoAppConfig.class
+com\igor101\thebesttodoapp\application\HttpFunctions.class
+com\igor101\thebesttodoapp\infrastructure\InMemoryTodoRepository.class
+com\igor101\thebesttodoapp\application\ApiResponse.class
+com\igor101\thebesttodoapp\application\TodoController.class
+com\igor101\thebesttodoapp\core\TheBestTodoAppException.class
+com\igor101\thebesttodoapp\core\Errors.class
+com\igor101\thebesttodoapp\TheBestTodoApp.class
+com\igor101\thebesttodoapp\core\TodoData.class
+com\igor101\thebesttodoapp\core\Todo.class
+com\igor101\thebesttodoapp\infrastructure\SqlTodoRepository.class
+com\igor101\thebesttodoapp\application\ApiResponse$Empty.class

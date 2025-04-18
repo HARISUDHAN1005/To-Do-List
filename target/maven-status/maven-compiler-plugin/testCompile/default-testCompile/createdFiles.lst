@@ -1,0 +1,8 @@
+com\igor101\thebesttodoapp\TheBestTodoAppIntegrationTest.class
+com\igor101\thebesttodoapp\infrastructure\SqlTodoRepositoryTest$TodosTestCase.class
+com\igor101\thebesttodoapp\core\TodoServiceTest.class
+com\igor101\thebesttodoapp\infrastructure\SqlTodoRepositoryTest$TodosTestCaseData.class
+com\igor101\thebesttodoapp\IntegrationTest.class
+com\igor101\thebesttodoapp\infrastructure\SqlTodoRepositoryTest$1.class
+com\igor101\thebesttodoapp\core\FakeTodoRepository.class
+com\igor101\thebesttodoapp\infrastructure\SqlTodoRepositoryTest.class
